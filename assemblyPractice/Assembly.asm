@@ -23,7 +23,7 @@ WritternBytes DWORD  ?
 main PROC
 	push rbp
 	mov rbp, rsp
-	sub rsp, 64
+	sub rsp, 64   ; stack Alignment 
 
 
 	lea rcx, filename
