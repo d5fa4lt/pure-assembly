@@ -15,7 +15,7 @@ externdef CloseHandle:PROC
 .data 
 string1 DB "H", 0, "e", 0, "l", 0, "l", 0, "o", 0, 0, 0
 
-filename BYTE "C:\Users\alwal\Desktop\helloworld.txt",0
+filename BYTE "C:\temp\helloworld.txt",0   ;change it this 
 WritternBytes DWORD  ?
 
 
