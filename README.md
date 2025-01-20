@@ -14,4 +14,5 @@ WriteFile for writing data
 
 CloseHandle for closing the file
 
-
+--- 
+This is only for practise purposes :) 
